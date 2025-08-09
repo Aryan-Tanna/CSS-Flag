@@ -1,0 +1,25 @@
+.red-box{background-color:#CE1126;
+height: 600px;
+width: 900px;
+text-align: center;
+}
+.red-box>p{color: white;
+font-size: 80px;
+margin: 0;}
+.red-box > div{height: 300px;
+width: 900px;
+background-color: #002868;
+position: absolute;
+top: 150px;}
+.circle{
+    background-color: white;
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    top: 50px;
+    left: 350px;
+    border-radius: 50%;
+    font-size: 80px;
+    
+}
+.circle>p{margin: 0px;}

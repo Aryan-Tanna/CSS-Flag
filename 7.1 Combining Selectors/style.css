@@ -1,0 +1,6 @@
+/* Write your code here: */
+h1,h2{color: blueviolet;} /*combine both*/
+.box>p{color: firebrick;} /*direct decendent*/
+.box li{color: blue;} /*anscestor*/
+li.done{color: green;} /*if has both then only apply*/
+ul p.done{font-size: 0.5rem;} /*combine*/
